@@ -13,3 +13,4 @@ elif choice == 3:
     print(f"Area of Square = {s**2:.2f}")
 else:
     print("Invalid Choice!")    
+    #1stproblem
