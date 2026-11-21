@@ -30,7 +30,7 @@ while True:
         x = float(input("Enter value for x (in radians): "))
         print("Result:", math.cos(x))
     elif choice == 5:
-        print('Exiting...')
+        print('Exiting....')
         break
     else:
         print("Invalid choice!")            
